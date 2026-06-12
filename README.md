@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Machine Learning project for heart disease prediction using Logistic Regression.
+Heart Disease Prediction using Machine Learning and Random Forest Classifier.
